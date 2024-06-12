@@ -1,0 +1,9 @@
+matplotlib==3.9.0
+numpy==1.26.4
+opencv_python_headless==4.9.0.80
+pandas==2.2.2
+Pillow==10.3.0
+streamlit==1.35.0
+streamlit_drawable_canvas==0.9.3
+torch==2.2.2
+torchvision==0.17.2
