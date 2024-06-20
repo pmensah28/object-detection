@@ -186,3 +186,4 @@ st.sidebar.markdown("""
 - Upload an image of a crowded street to detect vehicles and pedestrians.
 - Use the webcam to detect objects in real-time around your desk.
 """)
+
